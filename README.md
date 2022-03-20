@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Yeongnam's%20Github&fontAlign=50&fontAlignY=70&fontSize=80&fontColor=000000)
 
-
+<h3 align="center"><b>Hi! my name is Yeongnam!</b></h3>
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 
 </br>
@@ -23,17 +23,22 @@
 <a href="mailto:ggpp09@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=ggpp09@gmail.com"/></a>
 <a href="https://www.instagram.com/jang_0nam/?hl=ko" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 </p>
-
-
-<p align="center">
+<br/>
+<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
+<div align="center">
+  
 [![ggpp0909's GitHub stats](https://github-readme-stats.vercel.app/api?username=ggpp0909&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/ggpp0909/github-readme-stats)
-</p>
+</div>
 
-<p align="center">
-![ggpp0909's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ggpp0909&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)(https://github.com/ggpp0909)
-</p>
+<div align="center">
+  
+![ggpp0909's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ggpp0909&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)
+</div>
 
+<h3 align="center">📈 My BOJ Tier 📈</h3>
 <p align="center">
 <img align='' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ggpp09">
 </p>
+<p align="center">
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fggpp0909&count_bg=%235E43E9&title_bg=%23968D8D&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+</p>
