@@ -35,7 +35,7 @@
 ![ggpp0909's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ggpp0909&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)
 </div>
 
-<h3 align="center">📈 My BOJ Tier 📈</h3>
+<h3 align="center">📈 My BOJ Info 📈</h3>
 <p align="center">
 <img align='' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ggpp09">
 </p>
