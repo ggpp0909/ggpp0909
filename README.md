@@ -1,10 +1,11 @@
 <!-- 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fggpp0909&count_bg=%235E43E9&title_bg=%23968D8D&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a> -->
-### Hi there 👋
 
+
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Yeongnam's%20Github&fontAlign=50&fontAlignY=70&fontSize=80&fontColor=000000)
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:ggpp09@gmail.com)
 <a href="https://www.instagram.com/jang_0nam/?hl=ko" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="ggpp09@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<!-- [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:ggpp09@gmail.com) -->
 
 <h3 align=""><b>🛠 Tech Stack 🛠</b></h3>
 
@@ -24,7 +25,10 @@
 </p>
 </br>
 
-<img align='' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ggpp09">
 
 ![ggpp0909's github stats](https://github-readme-stats.vercel.app/api?username=ggpp0909&show_icons=true)
+
 [![ggpp0909's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ggpp0909&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/ggpp0909)
+
+
+<img align='' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ggpp09">
