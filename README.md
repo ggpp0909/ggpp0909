@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Yeongnam's%20Github&fontAlign=50&fontAlignY=70&fontSize=80&fontColor=000000)
 
-<h3 align="center"><b>Hi! my name is Yeongnam!</b></h3>
+<!-- <h3 align="center"><b>Hi! my name is Yeongnam!</b></h3> -->
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 
 </br>
